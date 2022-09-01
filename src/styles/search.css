@@ -1,0 +1,33 @@
+
+.lyes{
+    margin-left: 15px;
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+.zaki{
+    margin-left: 20px;
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+h1,h2{
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+p{
+    margin: 10px;;
+    border: 3px black solid;
+    border-radius: 10px;
+    padding: 10px 25px;
+    align-items: center;
+}
+p:hover{
+    background-color: rgba(161, 161, 161, 0.501);
+    box-shadow: 1px 48px 71px -38px rgba(0,0,0,0.62);
+-webkit-box-shadow: 1px 48px 71px -38px rgba(0,0,0,0.62);
+-moz-box-shadow: 1px 48px 71px -38px rgba(0,0,0,0.62);
+transition: all 300ms;
+}
+
+
